@@ -1,6 +1,7 @@
 Crypto Currencies
 Using Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-App Screenshot
+![image](https://github.com/rmousavi65/CryptoClustering/assets/124542074/5ffbee0d-3e3d-484b-875f-16603b2cf232)
+
 
 Dependencies and Setup
 import pandas as pd
@@ -8,6 +9,8 @@ import hvplot.pandas
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
+
+
 Roadmap
 Load the crypto_market_data.csv into a DataFrame.
 
